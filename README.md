@@ -1,11 +1,3 @@
 # StarPattern
-  Draw down below star
-    *
-   ***
-  *****
- *******
-*********
- *******
-  *****
-   ***
-    *
+  Draw  star pattern
+
